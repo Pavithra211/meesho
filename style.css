@@ -1,0 +1,104 @@
+*
+{
+    font-family:sans-serif;
+}
+
+h1{
+    color:rgb(247, 8, 155);
+}
+
+input{
+    padding:8px;
+    border-radius: 15px;
+    border:1px solid gray;
+
+}
+
+.flexbox
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+ul{
+    list-style:none;
+}
+
+.box
+{
+    display:flex;
+    
+    
+}
+
+#supplier
+{
+    margin-left: 45px;
+}
+
+.flex
+{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+
+
+.brands
+{
+    display:flex;
+    justify-content: space-evenly;
+
+    
+}
+
+#supplier1
+{
+    margin-left: 98px;
+}
+
+
+.mid
+{
+    
+    width:350px;
+    height:256px;
+    
+    padding:40px;
+    background-color: rgb(160, 182, 204);
+
+
+}
+
+.fllllllex
+{
+    display:flex;
+    justify-content: center;
+}
+.btn
+{
+    background-color: rgb(247, 8, 155);
+    color:#fff;
+    padding:20px;
+    border-radius:5px;
+    border-style: none;
+    margin-bottom:80px ;
+    cursor:pointer;
+    
+    
+}
+
+li{
+    cursor:pointer;
+}
+
+li:hover{
+    color:rgb(247, 8, 155);
+}
+
+.image{
+    margin:0 25%;
+    width: 221px 228px;
+    
+    
+}
